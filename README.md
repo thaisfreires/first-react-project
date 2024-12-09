@@ -11,3 +11,6 @@ This program manages counters and has interactive functionality for incrementing
 - Hadling events
 - Props and State
 
+## Preview
+
+![Screenshot (2)](https://github.com/user-attachments/assets/4d04d0c2-1a5e-4e96-b6be-72fbeded2f4f)
